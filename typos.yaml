@@ -1,10 +1,119 @@
 ---
 
-- typo: Html
+- typo:
+    - Html
+    - html
   fix: HTML
 
-- typo: Css
+- typo:
+    - Css
+    - css
   fix: CSS
 
-- typo: Javascript
+- typo:
+    - Javascript
+    - javascript
+    - JS
+    - js
   fix: JavaScript
+
+- typo:
+    - JAVA
+    - java
+  fix: Java
+
+- typo:
+    - OC
+    - oc
+    - objective-c
+  fix: Objective-C
+
+- typo:
+    - xcode
+    - XCODE
+    - XCode
+  fix: Xcode
+
+- typo:
+    - linux
+    - LINUX
+  fix: Linux
+
+- typo:
+    - APP
+  fix: App
+
+- typo:
+    - android
+  fix: Android
+
+- typo:
+    - ios
+    - IOS
+  fix: iOS
+
+- typo:
+    - iphone
+    - IPHONE
+  fix: iPhone
+
+- typo:
+    - AppStore
+    - app store
+  fix: App Store
+
+- typo:
+    - Http
+    - http
+  fix: HTTP
+
+- typo:
+    - git
+    - GIT
+  fix: Git
+
+- typo: eclipse
+  fix: Eclipse
+
+- typo: android studio
+  fix: Android Studio
+
+- typo: mysql
+  fix: MySQL
+
+- typo: sqlite
+  fix: SQLite
+
+- typo:
+    - node
+    - Node
+    - NodeJS
+    - nodejs
+  fix: Node.js
+
+- typo:
+    - json
+    - Json
+  fix: JSON
+
+- typo:
+    - xml
+    - Xml
+  fix: XML
+
+- typo:
+    - jquery
+    - JQuery
+  fix: jQuery
+
+- typo:
+    - Mac OSX
+  fix: Mac OS X
+
+- typo:
+    - ruby
+  fix: Ruby
+
+- typo:
+    - python
+  fix: Python
