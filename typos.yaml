@@ -117,3 +117,8 @@
 - typo:
     - python
   fix: Python
+
+- typo:
+    - ajax
+    - Ajax
+  fix: AJAX
