@@ -1,0 +1,32 @@
+#+TITLE: Typos
+
+This project provides a list of common typos and fixes when writing resumes.
+
+| Typos                          | Fix            |
+|--------------------------------+----------------|
+| Html, html                     | HTML           |
+| Css, css                       | CSS            |
+| Javascript, javascript, JS, js | JavaScript     |
+| JAVA, java                     | Java           |
+| OC, oc, objective-c            | Objective-C    |
+| xcode, XCODE, XCode            | Xcode          |
+| linux, LINUX                   | Linux          |
+| APP                            | App            |
+| android                        | Android        |
+| ios, IOS                       | iOS            |
+| iphone, IPHONE                 | iPhone         |
+| AppStore, app store            | App Store      |
+| Http, http                     | HTTP           |
+| git, GIT                       | Git            |
+| eclipse                        | Eclipse        |
+| android studio                 | Android Studio |
+| mysql                          | MySQL          |
+| sqlite                         | SQLite         |
+| node, Node, NodeJS, nodejs     | Node.js        |
+| json, Json                     | JSON           |
+| xml, Xml                       | XML            |
+| jquery, JQuery                 | jQuery         |
+| Mac OSX                        | Mac OS X       |
+| ruby                           | Ruby           |
+| python                         | Python         |
+| ajax, Ajax                     | AJAX           |
