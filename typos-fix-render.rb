@@ -54,7 +54,7 @@ def output_with_format(typos, output_format)
 |Typos|Fix|
 |-----+---|
 HEADER
-    typos.each do |typo|
+    typos.sort_by { |x| x['fix'] }.each do |typo|
       case typo['typo']
       when String
         output += "|#{typo['typo']}|#{typo['fix']}|\n"
