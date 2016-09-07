@@ -25,6 +25,7 @@ This project provides a list of common typos and fixes when writing resumes.
 | node, Node, NodeJS, nodejs     | Node.js           |
 | OC, oc, objective-c            | Objective-C       |
 | python                         | Python            |
+| QT, qt                         | Qt                |
 | ruby                           | Ruby              |
 | sqlite                         | SQLite            |
 | xml, Xml                       | XML               |

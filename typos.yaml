@@ -122,3 +122,8 @@
     - ajax
     - Ajax
   fix: AJAX
+
+- typo:
+    - QT
+    - qt
+  fix: Qt
