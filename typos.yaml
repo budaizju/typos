@@ -127,3 +127,8 @@
     - QT
     - qt
   fix: Qt
+
+- typo:
+    - UBoot
+    - uboot
+  fix: U-Boot

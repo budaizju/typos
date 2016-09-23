@@ -33,3 +33,4 @@ This project provides a list of common typos and fixes when writing resumes.
 | ios, IOS                       | iOS               |
 | iphone, IPHONE                 | iPhone            |
 | jquery, JQuery                 | jQuery            |
+| uboot, UBoot                   | U-Boot            |
