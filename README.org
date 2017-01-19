@@ -21,6 +21,7 @@ This project provides a list of common typos and fixes when writing resumes.
 | Javascript, javascript, JS, js | JavaScript        |
 | linux, LINUX                   | Linux             |
 | Mac OSX                        | Mac OS X or macOS |
+| mongodb, MONGODB               | MongoDB           |
 | mysql                          | MySQL             |
 | node, Node, NodeJS, nodejs     | Node.js           |
 | OC, oc, objective-c            | Objective-C       |

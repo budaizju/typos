@@ -132,3 +132,8 @@
     - UBoot
     - uboot
   fix: U-Boot
+
+- typo:
+    - mongodb
+    - MONGODB
+  fix: MongoDB
