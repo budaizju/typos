@@ -7,6 +7,7 @@ This project provides a list of common typos and fixes when writing resumes.
 | Typos                          | Fix               |
 |--------------------------------+-------------------|
 | ajax, Ajax                     | AJAX              |
+| angularjs                      | AngularJS         |
 | android                        | Android           |
 | android studio                 | Android Studio    |
 | APP                            | App               |
@@ -28,6 +29,7 @@ This project provides a list of common typos and fixes when writing resumes.
 | python                         | Python            |
 | QT, qt                         | Qt                |
 | ruby                           | Ruby              |
+| socketio, socket.io            | Socket.IO         |
 | sqlite                         | SQLite            |
 | xml, Xml                       | XML               |
 | xcode, XCODE, XCode            | Xcode             |

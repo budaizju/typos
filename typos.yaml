@@ -137,3 +137,12 @@
     - mongodb
     - MONGODB
   fix: MongoDB
+
+- typo:
+    - socketio
+    - socket.io
+  fix: Socket.IO
+
+- typo:
+    - angularjs
+  fix: AngularJS
