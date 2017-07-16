@@ -1,0 +1,43 @@
+---
+
+- typo:
+    - EXCEL
+    - excel
+  fix: Excel
+
+- typo:
+    - Powerpoint
+    - powerpoint
+  fix: PowerPoint
+
+- typo:
+    - vba
+  fix: VBA
+
+- typo:
+    - Spss
+    - spss
+  fix: SPSS
+
+- typo:
+    - Eviews
+    - eviews
+  fix: EViews
+
+- typo:
+    - STATA
+    - stata
+  fix: Stata
+
+- typo:
+    - sas
+  fix: SAS
+
+- typo:
+    - Matlab
+    - matlab
+  fix: MATLAB
+
+- typo:
+    - bloomberg
+  fix: Bloomberg
