@@ -1,0 +1,75 @@
+---
+
+- typo:
+    - WestLaw
+    - westlaw
+  fix: Westlaw
+
+- typo:
+    - Lexis nexis
+    - lexis nexis
+  fix: LexisNexis
+
+- typo:
+    - Wolters kluwer
+    - wolters kluwer
+  fix: Wolters Kluwer
+
+- typo:
+    - Spss
+    - spss
+  fix: SPSS
+
+- typo:
+    - toles
+  fix: TOLES
+
+- typo:
+    - premiere
+    - pr
+  fix: Premiere
+
+- typo:
+    - PhotoShop
+    - photoshop
+  fix: Photoshop
+
+- typo:
+    - DreamWeaver
+    - dreamweaver
+  fix: Dreamweaver
+
+- typo:
+    - CorelDraw
+    - Coreldraw
+    - coreldraw
+  fix: CorelDRAW
+
+- typo:
+    - After effects
+    - ae
+  fix: After Effects or AE
+
+- typo:
+    - Powerpoint
+    - powerpoint
+  fix: PowerPoint
+
+- typo:
+    - EXCEL
+    - excel
+  fix: Excel
+
+- typo:
+    - Camscanner
+  fix: CamScanner
+
+- typo:
+    - WeeChat
+    - Wechat
+    - wechat
+  fix: WeChat
+
+- typo:
+    - LOGO
+  fix: logo
