@@ -1,0 +1,81 @@
+---
+
+- typo:
+    - EPrime
+    - E-prime
+    - e-prime
+  fix: E-Prime
+
+- typo:
+    - inquisit
+  fix: Inquisit
+
+- typo:
+    - DmDx
+    - dmdx
+  fix: DMDX
+
+- typo:
+    - presentation
+  fix: Presentation
+
+- typo:
+    - Psychopy
+    - psychopy
+  fix: PsychoPy
+
+- typo:
+    - jasp
+  fix: JASP
+
+- typo:
+    - M-Plus
+    - MPlus
+    - mplus
+  fix: Mplus
+
+- typo:
+    - tableau
+  fix: Tableau
+
+- typo:
+    - Atlas.ti
+    - atlas.ti
+  fix: ATLAS.ti
+
+- typo:
+    - NVIVO
+    - Nvivo
+    - nvivo
+  fix: NVivo
+
+- typo:
+    - Survey Monkey
+    - Surveymonkey
+    - Survey monkey
+    - survey monkey
+  fix: SurveyMonkey
+
+- typo:
+    - qualtrics
+  fix: Qualtrics
+
+- typo:
+    - Matlab
+    - matlab
+  fix: MATLAB
+
+- typo:
+    - Spss
+    - spss
+  fix: SPSS
+
+- typo:
+    - trx
+  fix: TRX
+
+- typo:
+    - VIPR
+    - Vipr
+    - vipr
+  fix: ViPR
