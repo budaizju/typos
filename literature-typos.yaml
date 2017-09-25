@@ -1,0 +1,91 @@
+---
+
+- typo:
+    - Powerpoint
+    - powerpoint
+  fix: PowerPoint
+
+- typo:
+    - EXCEL
+    - excel
+  fix: Excel
+
+- typo:
+    - LATEX
+    - LaTex
+    - Latex
+    - latex
+  fix: LaTeX
+
+- typo:
+    - Founder Fit
+    - founder fit
+  fix: Founder FIT
+
+- typo:
+    - Indesign
+    - indesign
+  fix: InDesign
+
+- typo:
+    - PhotoShop
+    - photoshop
+  fix: Photoshop
+
+- typo:
+    - illustrator
+  fix: Illustrator
+
+- typo:
+    - CorelDraw
+    - Coreldraw
+    - coreldraw
+  fix: CorelDRAW
+
+- typo:
+    - SDL TRADOS
+    - sdl trados
+    - trados
+  fix: SDL Trados
+
+- typo:
+    - DéjàVu
+    - Déjà vu
+    - Déjàvu
+    - DeJaVu
+    - Deja Vu
+    - Deja vu
+    - Dejavu
+    - deja vu
+    - dejavu
+  fix: Déjà Vu
+
+- typo:
+    - WordFast
+    - wordfast
+  fix: Wordfast
+
+- typo:
+    - TOFEL
+    - toefl
+  fix: TOEFL
+
+- typo:
+    - Final cut pro
+    - final cut
+  fix: Final Cut Pro
+
+- typo:
+    - Edius
+    - edius
+  fix: EDIUS
+
+- typo:
+    - premiere
+    - pr
+  fix: Premiere
+
+- typo:
+    - After effects
+    - ae
+  fix: After Effects
