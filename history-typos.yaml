@@ -1,0 +1,96 @@
+---
+
+- typo:
+    - Powerpoint
+    - powerpoint
+  fix: PowerPoint
+
+- typo:
+    - EXCEL
+    - excel
+  fix: Excel
+
+- typo:
+    - PhotoShop
+    - photoshop
+  fix: Photoshop
+
+- typo:
+    - ARCGIS
+    - Arc GIS
+    - Arcgis
+    - arcgis
+  fix: ArcGIS
+
+- typo:
+    - Mapinfo
+    - mapinfo
+  fix: MapInfo
+
+- typo:
+    - Supermap
+    - supermap
+  fix: SuperMap
+
+- typo:
+    - Auto CAD
+    - Autocad
+    - autocad
+  fix: AutoCAD
+
+- typo:
+    - 3D max
+    - 3ds max
+    - 3dsmax
+  fix: 3ds Max
+
+- typo:
+    - GeomagicStudio
+    - Geomagic studio
+    - geomagic studio
+  fix: Geomagic Studio
+
+- typo:
+    - WeeChat
+    - Wechat
+    - wechat
+  fix: WeChat
+
+- typo:
+    - Endnote
+    - endnote
+  fix: EndNote
+
+- typo:
+    - Mindmanager
+    - Mind manager
+    - mindmanager
+  fix: MindManager
+
+- typo:
+    - Marginnote
+    - marginnote
+  fix: MarginNote
+
+- typo:
+    - Jstor
+    - jstor
+  fix: JSTOR
+
+- typo:
+    - gale
+  fix: Gale
+
+- typo:
+    - Proquest
+    - proquest
+  fix: ProQuest
+
+- typo:
+    - Project Muse
+    - Project muse
+  fix: Project MUSE
+
+- typo:
+    - cairn.info
+  fix: Cairn.info
